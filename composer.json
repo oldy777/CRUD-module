@@ -1,0 +1,30 @@
+{
+    "name": "oldy/crud",
+    "description": "Crud module",
+    "type": "laravel-module",
+    "authors": [
+        {
+            "name": "Dmitry S",
+            "email": "sfon-site@yandex.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "kris/laravel-form-builder": "^1.13"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\CRUD\\Providers\\CRUDServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\CRUD\\": ""
+        }
+    }
+}
