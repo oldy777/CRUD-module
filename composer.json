@@ -10,7 +10,8 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "kris/laravel-form-builder": "^1.13"
+        "kris/laravel-form-builder": "^1.13",
+        "joshbrw/laravel-module-installer ": "^v0.1.4"
     },
     "extra": {
         "laravel": {
