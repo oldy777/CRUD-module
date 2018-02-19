@@ -1,7 +1,7 @@
 # Crud
 Laravel Crud Module
 
-##Install
+## Install
 Execute the following command in your terminal
 
 ```bash
@@ -23,7 +23,7 @@ And execute the following command in your terminal
 composer update
 ```
 
-##Usage
+## Usage
 Данный пакет предоставляет общие функции для быстрого создания CRUD на основе модели и формы. 
 
 В первую очередь необходимо создать модель. По умолчанию модель будет искаться в каталоге **Entity**, 
