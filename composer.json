@@ -1,5 +1,5 @@
 {
-    "name": "oldy/crud",
+    "name": "oldy/crud-module",
     "description": "Crud module",
     "type": "laravel-module",
     "authors": [
