@@ -27,6 +27,6 @@ trait RelationTrait
 
     private function isRelationField($name)
     {
-        return in_array($name, $this->relations);
+        return isset($this->relations) && in_array($name, $this->relations);
     }
 }
