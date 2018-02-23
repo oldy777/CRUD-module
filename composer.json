@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Modules\\CRUD\\": ""
+            "Modules\\Crud\\": ""
         }
     }
 }
