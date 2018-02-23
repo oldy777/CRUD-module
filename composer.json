@@ -1,6 +1,6 @@
 {
     "name": "oldy/crud-module",
-    "description": "Crud module",
+    "description": "Crud module to fast",
     "type": "laravel-module",
     "authors": [
         {
@@ -16,10 +16,9 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Modules\\CRUD\\Providers\\CRUDServiceProvider"
+                "Modules\\Crud\\Providers\\CrudServiceProvider"
             ],
             "aliases": {
-                
             }
         }
     },
