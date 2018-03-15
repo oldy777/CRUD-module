@@ -20,7 +20,7 @@ abstract class BaseController extends Controller
     /**
      * model relations name or array of names
      */
-    protected $relations;
+    protected $relations = [];
 
     /**
      * 0 - название списка
