@@ -16,7 +16,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Modules\\Crud\\Providers\\CrudServiceProvider" 
+                "Modules\\Crud\\Providers\\CrudServiceProvider"
             ],
             "aliases": {
             }
